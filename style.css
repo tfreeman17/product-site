@@ -1,0 +1,75 @@
+body { padding-top: 70px; 
+}
+body {
+    background-color: #333333;
+    padding-bottom: 100px;
+}
+
+.bg {
+  background: url('butterflies.gif') no-repeat center center;
+  position: fixed;
+  width: 100%;
+  height: 350px; 
+  top:0;
+  left:0;
+  z-index: -1;
+}
+}
+.container-jumbotron {
+    background: url("butterflies.gif");
+    text-align: center;
+}
+.btn {
+	background-color: #ff6600;
+}
+.navbar {
+	padding: 1em 2em 2em 1em;
+}
+.title {
+	text-align: center;
+}
+video#butterfly-video { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(Butterfly effect - Imgur.gif) no-repeat;
+    background-size: cover; 
+}
+.half-rule {
+    width: 100px;
+    margin: 40px auto;
+}
+.HIT-featurette {
+	padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+    text-align: center;
+    background-color: #fff;
+    border-bottom: 1px solid #e5e5e5;
+}
+div {
+	display: block;
+}
+.row:before {
+    display: table;
+    content: " ";
+}
+
+
+
+
+.btn-group-vertical>.btn-group:after, .btn-group-vertical>.btn-group:before, .btn-toolbar:after, .btn-toolbar:before, .clearfix:after, .clearfix:before, .container-fluid:after, .container-fluid:before, .container:after, .container:before, .dl-horizontal dd:after, .dl-horizontal dd:before, .form-horizontal .form-group:after, .form-horizontal .form-group:before, .modal-footer:after, .modal-footer:before, .modal-header:after, .modal-header:before, .nav:after, .nav:before, .navbar-collapse:after, .navbar-collapse:before, .navbar-header:after, .navbar-header:before, .navbar:after, .navbar:before, .pager:after, .pager:before, .panel-body:after, .panel-body:before, .row:after, .row:before
+
+
+}
