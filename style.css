@@ -16,7 +16,6 @@ body {
 }
 }
 .container-jumbotron {
-    background: url("butterflies.gif");
     text-align: center;
 }
 .btn {
@@ -25,7 +24,7 @@ body {
 .navbar {
 	padding: 1em 2em 2em 1em;
 }
-.title {
+.page-header {
 	text-align: center;
 }
 video#butterfly-video { 
@@ -48,7 +47,7 @@ video#butterfly-video {
     width: 100px;
     margin: 40px auto;
 }
-.HIT-featurette {
+.jumbotron-2 {
 	padding-top: 40px;
     padding-bottom: 40px;
     font-size: 16px;
@@ -61,15 +60,15 @@ video#butterfly-video {
 div {
 	display: block;
 }
-.row:before {
-    display: table;
-    content: " ";
+
+
+.btn btn-success btn-lg title {
+	display; block;
+	margin: auto;
+	width: 50%;
 }
 
 
-
-
-.btn-group-vertical>.btn-group:after, .btn-group-vertical>.btn-group:before, .btn-toolbar:after, .btn-toolbar:before, .clearfix:after, .clearfix:before, .container-fluid:after, .container-fluid:before, .container:after, .container:before, .dl-horizontal dd:after, .dl-horizontal dd:before, .form-horizontal .form-group:after, .form-horizontal .form-group:before, .modal-footer:after, .modal-footer:before, .modal-header:after, .modal-header:before, .nav:after, .nav:before, .navbar-collapse:after, .navbar-collapse:before, .navbar-header:after, .navbar-header:before, .navbar:after, .navbar:before, .pager:after, .pager:before, .panel-body:after, .panel-body:before, .row:after, .row:before
 
 
 }
